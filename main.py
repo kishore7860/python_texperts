@@ -1,6 +1,6 @@
 text = input("enter the string:")
 reversed_text = [::-1]
 if reversed_text == text:
-    print("it iS a palindrome")
+    print("it iS a palindrome by Guna")
 else:
-    print("it is not a palindrome")
+    print("it is not a palindrome by Guna")
